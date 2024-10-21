@@ -8,8 +8,6 @@ This is a simple rule-based chatbot application that uses a dataset from a CSV f
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Dependencies](#dependencies)
-- [Customization](#customization)
-- [Acknowledgements](#acknowledgements)
 
 ## Installation
 
@@ -89,7 +87,11 @@ flask-chatbot/
 To install the dependencies, run:
 
 ```bash
-pip install -r requirements.tx
+pip install -r requirements
+
+
+
+
 
 
 
