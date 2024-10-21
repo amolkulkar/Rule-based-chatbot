@@ -70,9 +70,8 @@ This is a simple rule-based chatbot application that uses a dataset from a CSV f
 
 ## Project Structure
 
-flask-chatbot/
-│
-├── app.py # Main Flask application
+Rule-based chatbot/ 
+├── app.py # Main Flask application 
 ├── templates/
 │ └── webpage.html # HTML template for the chatbot interface
 ├── sampleset.csv # Dataset for the chatbot
